@@ -8,7 +8,7 @@ function generateParenthesis(n) {
     close,
     result
   ) => {
-    if (open === max && close === max) {
+    if (close === max) {
       result.push(str);
       return;
     }
