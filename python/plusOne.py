@@ -1,4 +1,4 @@
-digits = [9]
+digits = [0, 9]
 
 def plus_one(digits):
     
