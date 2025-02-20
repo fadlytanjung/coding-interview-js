@@ -1,3 +1,4 @@
+# recursive pattern
 def rotate(nums, k):
     n = len(nums)
     k %= n  # Handle cases where k is greater than the length of the array

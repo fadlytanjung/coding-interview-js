@@ -11,7 +11,7 @@ def minSubstitutions(s):
     
     return substitutions
 
-print(minSubstitutions("aabb"))
-print(minSubstitutions("aaab"))
-print(minSubstitutions("abab"))
-print(minSubstitutions("aaaabb"))
+print(minSubstitutions("aabb")) #2
+print(minSubstitutions("aaab")) #1
+print(minSubstitutions("abab")) #0
+print(minSubstitutions("aaaabb")) #3

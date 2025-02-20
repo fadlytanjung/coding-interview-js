@@ -1,3 +1,4 @@
+# sliding window pattern
 def countGoodSubstrings(s: str) -> int:
     if not s or len(s) < 3:
         return 0

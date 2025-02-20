@@ -30,7 +30,7 @@ my_list = [64, 25, 12, 22, 11]
 selection_sort(my_list)
 print("Sorted list:", my_list)
 
-
+# medium solution
 def insertion_sort(arr):
     for i in range(1, len(arr)):
         key = arr[i]

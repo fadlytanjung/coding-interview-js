@@ -1,3 +1,4 @@
+# sliding window pattern
 def findMaxAverage(nums, k) -> float:
         
     # Initialize currSum and maxSum to the sum of the initial k elements
